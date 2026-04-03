@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="(https://github.com/zGreenCat/zGreenCat/blob/main/Banner%20Github(2).gif)" width="100%" alt="Vicente Araya Banner">
+  <img src="https://github.com/zGreenCat/zGreenCat/blob/main/Banner%20Github(2).gif" width="100%" alt="Vicente Araya Banner">
 </p>
 
 <h1 align="center">Hola! Soy Vicente Araya 👋</h1>
 
 <p align="center">
   <strong>Fullstack Developer | AI Specialist | UI/UX Enthusiast</strong><br>
-  Fundador en <a href="https://www.ekiproject.cl"><strong>EKi Software Consulting</strong></a>
+  Co-Fundador en <a href="https://www.ekiproject.cl"><strong>EKi Software Consulting</strong></a>
 </p>
 
 ---
