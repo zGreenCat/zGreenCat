@@ -7,7 +7,7 @@
   Co-Fundador en <a href="https://www.ekiproject.cl"><strong>EKi Software Consulting</strong></a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="www.linkedin.com/in/vicente-araya-a1ab8528a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="vicente.araya9821@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
