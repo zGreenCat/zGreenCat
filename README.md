@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="center">
+  <img src="(https://github.com/zGreenCat/zGreenCat/blob/main/Banner%20Github(2).gif)" width="100%" alt="Vicente Araya Banner">
+</p>
 
-<!--
-**zGreenCat/zGreenCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola! Soy Vicente Araya 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Fullstack Developer | AI Specialist | UI/UX Enthusiast</strong><br>
+  Fundador en <a href="https://www.ekiproject.cl"><strong>EKi Software Consulting</strong></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre Mí
+Soy un desarrollador apasionado por construir sistemas con **arquitecturas sólidas** y experiencias de usuario impecables. Mi enfoque actual combina el poder de la **Inteligencia Artificial (LLMs & RAG)** con interfaces modernas y animadas. Además, estoy profundizando en el mundo de la **Ciberseguridad** para asegurar que cada línea de código sea tan robusta como estética.
+
+---
+
+### 🛠️ Tech Stack
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Angular, React Native, Tailwind CSS, GSAP |
+| **Backend** | NestJS, ExpressJS, Laravel, FastAPI |
+| **AI & Data** | Python for Data Science, LLM Development |
+| **DevOps & Infra** | Docker, Linux, Networking |
+
+---
+
+### 🏗️ Mi Empresa: EKi
+Junto a 3 amigos, lidero **EKi**, una consultora de software donde transformamos ideas complejas en productos digitales de alto nivel. Yo mismo desarrollé nuestra landing page enfocándome en una experiencia de usuario premium.
+
+---
+
+### 🎮 Fuera del Código
+Cuando no estoy programando o estudiando ciberseguridad, me encontrarás:
+* 🏋️‍♂️ Entrenando para mantenerme en forma.
+* 🌲 Sobreviviendo en mundos digitales (Survival Games).
+* ⚙️ Optimizando procesos en simuladores de automatización.
+* 🎭 Sumergido en historias de juegos de Rol.
+
+---
+
+### 📫 Conectemos
+<p align="left">
+  <a href="www.linkedin.com/in/vicente-araya-a1ab8528a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="vicente.araya9821@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
