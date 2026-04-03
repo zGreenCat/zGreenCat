@@ -2,8 +2,6 @@
   <img src="https://github.com/zGreenCat/zGreenCat/blob/main/Hola!%20Soy%20Vicente%20Araya%20%F0%9F%83%8F.gif" width="100%" alt="Vicente Araya Banner">
 </p>
 
-<h1 align="center">Hola! Soy Vicente Araya 👋</h1>
-
 <p align="center">
   <strong>Fullstack Developer | AI Specialist | UI/UX Enthusiast</strong><br>
   Co-Fundador en <a href="https://www.ekiproject.cl"><strong>EKi Software Consulting</strong></a>
