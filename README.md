@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/zGreenCat/zGreenCat/blob/main/Banner%20Github(2).gif" width="100%" alt="Vicente Araya Banner">
+  <img src="https://github.com/zGreenCat/zGreenCat/blob/main/Hola!%20Soy%20Vicente%20Araya%20%F0%9F%83%8F.gif" width="100%" alt="Vicente Araya Banner">
 </p>
 
 <h1 align="center">Hola! Soy Vicente Araya 👋</h1>
