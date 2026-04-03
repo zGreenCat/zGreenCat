@@ -7,10 +7,14 @@
   Co-Fundador en <a href="https://www.ekiproject.cl"><strong>EKi Software Consulting</strong></a>
 </p>
 
+<p align="left">
+  <a href="www.linkedin.com/in/vicente-araya-a1ab8528a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="vicente.araya9821@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 ---
 
-### 🚀 Sobre Mí
-Soy un desarrollador apasionado por construir sistemas con **arquitecturas sólidas** y experiencias de usuario impecables. Mi enfoque actual combina el poder de la **Inteligencia Artificial (LLMs)** con interfaces modernas y animadas. Además, estoy profundizando en el mundo de la **Ciberseguridad** para asegurar que cada línea de código sea tan robusta como estética.
+### Sobre Mí 🎧
+Soy un desarrollador apasionado por construir sistemas con arquitecturas sólidas y experiencias de usuario impecables. Mi enfoque actual combina el poder de la Inteligencia Artificial (LLMs) con interfaces modernas y animadas. Además, estoy profundizando en el mundo de la Ciberseguridad para asegurar que cada línea de código sea tan robusta como estética.
 
 ---
 
@@ -37,10 +41,5 @@ Cuando no estoy programando o estudiando ciberseguridad, me encontrarás:
 * ⚙️ Optimizando procesos en simuladores de automatización.
 * 🎭 Sumergido en historias de juegos de Rol.
 
----
 
-### 📫 Conectemos
-<p align="left">
-  <a href="www.linkedin.com/in/vicente-araya-a1ab8528a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="vicente.araya9821@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+
