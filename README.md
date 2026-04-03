@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Sobre Mí
-Soy un desarrollador apasionado por construir sistemas con **arquitecturas sólidas** y experiencias de usuario impecables. Mi enfoque actual combina el poder de la **Inteligencia Artificial (LLMs & RAG)** con interfaces modernas y animadas. Además, estoy profundizando en el mundo de la **Ciberseguridad** para asegurar que cada línea de código sea tan robusta como estética.
+Soy un desarrollador apasionado por construir sistemas con **arquitecturas sólidas** y experiencias de usuario impecables. Mi enfoque actual combina el poder de la **Inteligencia Artificial (LLMs)** con interfaces modernas y animadas. Además, estoy profundizando en el mundo de la **Ciberseguridad** para asegurar que cada línea de código sea tan robusta como estética.
 
 ---
 
