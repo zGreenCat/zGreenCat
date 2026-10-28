@@ -46,9 +46,3 @@ Junto a 3 amigos, lidero **EKi**, una consultora de software donde transformamos
 
 ---
 
-### 🎮 Fuera del Código
-Cuando no estoy programando o estudiando ciberseguridad, me encontrarás:
-* 🏋️‍♂️ Entrenando para mantenerme en forma.
-* 🌲 Sobreviviendo en mundos digitales (Survival Games).
-* ⚙️ Optimizando procesos en simuladores de automatización.
-* 🎭 Sumergido en historias de juegos de Rol.
